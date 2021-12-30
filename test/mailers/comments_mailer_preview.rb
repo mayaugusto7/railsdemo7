@@ -1,0 +1,2 @@
+class CommentsMailerPreview
+end
